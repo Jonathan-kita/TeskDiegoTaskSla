@@ -1,0 +1,14 @@
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\bin\Debug\netcoreapp3.1\ProjetoDiegoSla.exe
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\bin\Debug\netcoreapp3.1\ProjetoDiegoSla.deps.json
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\bin\Debug\netcoreapp3.1\ProjetoDiegoSla.runtimeconfig.json
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\bin\Debug\netcoreapp3.1\ProjetoDiegoSla.runtimeconfig.dev.json
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\bin\Debug\netcoreapp3.1\ProjetoDiegoSla.dll
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\bin\Debug\netcoreapp3.1\ProjetoDiegoSla.pdb
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\obj\Debug\netcoreapp3.1\ProjetoDiegoSla.csproj.AssemblyReference.cache
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\obj\Debug\netcoreapp3.1\ProjetoDiegoSla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\obj\Debug\netcoreapp3.1\ProjetoDiegoSla.AssemblyInfoInputs.cache
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\obj\Debug\netcoreapp3.1\ProjetoDiegoSla.AssemblyInfo.cs
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\obj\Debug\netcoreapp3.1\ProjetoDiegoSla.csproj.CoreCompileInputs.cache
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\obj\Debug\netcoreapp3.1\ProjetoDiegoSla.dll
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\obj\Debug\netcoreapp3.1\ProjetoDiegoSla.pdb
+C:\Users\35940\source\repos\TesteDiegoDataChamado\ProjetoDiegoSla\obj\Debug\netcoreapp3.1\ProjetoDiegoSla.genruntimeconfig.cache
